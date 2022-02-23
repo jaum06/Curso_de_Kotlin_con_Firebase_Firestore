@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "378458503584",
+    "project_id": "crypto-trader-ed364",
+    "storage_bucket": "crypto-trader-ed364.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378458503584:android:874b2365710a0f23dd8cc5",
+        "android_client_info": {
+          "package_name": "com.zlasher.cryptomoneda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378458503584-m645khlo2tesn0hvah4qbog45npaapks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVzX1zdpa1g1hQikLtCOqvNB3mozE4zoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378458503584-m645khlo2tesn0hvah4qbog45npaapks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
