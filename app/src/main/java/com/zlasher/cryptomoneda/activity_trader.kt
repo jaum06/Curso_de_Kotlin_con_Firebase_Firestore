@@ -1,12 +1,11 @@
-package com.zlasher.cryptomoneda.ui.activity
+package com.zlasher.cryptomoneda
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.zlasher.cryptomoneda.R
 
-class MainActivity : AppCompatActivity() {
+class activity_trader : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_login)
+        setContentView(R.layout.activity_trader)
     }
 }

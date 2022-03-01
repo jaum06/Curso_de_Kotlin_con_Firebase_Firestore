@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "378458503584",
-    "project_id": "crypto-trader-ed364",
-    "storage_bucket": "crypto-trader-ed364.appspot.com"
+    "project_number": "671120418828",
+    "project_id": "cryptomoneda-dfb94",
+    "storage_bucket": "cryptomoneda-dfb94.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:378458503584:android:874b2365710a0f23dd8cc5",
+        "mobilesdk_app_id": "1:671120418828:android:11cd5f53e6019790f7a629",
         "android_client_info": {
           "package_name": "com.zlasher.cryptomoneda"
         }
       },
       "oauth_client": [
         {
-          "client_id": "378458503584-m645khlo2tesn0hvah4qbog45npaapks.apps.googleusercontent.com",
+          "client_id": "671120418828-rgdaq7ed5mtsn5u53vva0g23cqgbloel.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAVzX1zdpa1g1hQikLtCOqvNB3mozE4zoA"
+          "current_key": "AIzaSyAcbx2EwZbHCKR-E522J-y8oc59Z12pDq8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "378458503584-m645khlo2tesn0hvah4qbog45npaapks.apps.googleusercontent.com",
+              "client_id": "671120418828-rgdaq7ed5mtsn5u53vva0g23cqgbloel.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
